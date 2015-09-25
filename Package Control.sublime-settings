@@ -1,34 +1,35 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Babel",
-		"Base16 Color Schemes",
-		"BracketHighlighter",
-		"ConvertToUTF8",
-		"DocBlockr",
-		"Git",
-		"GitGutter",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"HTMLAttributes",
-		"JsFormat",
-		"Markdown Preview",
-		"Package Control",
-		"PlainTasks",
-		"Preap",
-		"Pretty JSON",
-		"ReactJS",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-json",
-		"Tag",
-		"Theme - Soda"
-	]
+        "bootstrapped": true,
+        "in_process_packages":
+        [
+        ],
+        "installed_packages":
+        [
+                "AdvancedNewFile",
+                "All Autocomplete",
+                "Babel",
+                "Base16 Color Schemes",
+                "BracketHighlighter",
+                "ConvertToUTF8",
+                "DocBlockr",
+                "Git",
+                "GitGutter",
+                "HTML-CSS-JS Prettify",
+                "HTML5",
+                "HTMLAttributes",
+                "JsFormat",
+                "Markdown Preview",
+                "Package Control",
+                "PlainTasks",
+                "Preap",
+                "Pretty JSON",
+                "ReactJS",
+                "ReactJS Snippets",
+                "SideBarEnhancements",
+                "SublimeCodeIntel",
+                "SublimeLinter",
+                "SublimeLinter-json",
+                "Tag",
+                "Theme - Soda"
+        ]
 }
