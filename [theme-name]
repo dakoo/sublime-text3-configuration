@@ -1,0 +1,20 @@
+//file name is the same as your theme-name
+// this makes scrollbar more visible (RED)
+
+[
+        {
+        "class": "puck_control",
+        "layer0.texture": "",
+        "layer0.tint": [192, 32, 32],
+        "layer0.opacity": 1.0,
+        "blur": false
+        },
+        {
+        "class": "puck_control",
+        "attributes": ["horizontal"],
+        "layer0.texture": "",
+        "layer0.tint": [192, 32, 32],
+        "layer0.opacity": 1.0,
+        "blur": false
+        },
+]
