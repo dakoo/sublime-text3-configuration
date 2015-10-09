@@ -1,0 +1,7 @@
+<snippet>
+ <content><![CDATA[
+this.state.
+]]></content>
+ <tabTrigger>state.</tabTrigger>
+<scope>source.js, source.jsx</scope>
+</snippet>

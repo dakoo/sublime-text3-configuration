@@ -1,0 +1,15 @@
+<snippet>
+ <content><![CDATA[
+var ${1:Name} = React.createClass({
+  render: function() {
+    return (
+		${2:Here}
+	);
+  }
+});
+
+module.exports = ${1:Name};
+]]></content>
+ <tabTrigger>rcc</tabTrigger>
+<scope>source.js, source.jsx</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+ <content><![CDATA[
+function(${1:}){
+	return(
+		${2:}
+	)
+},
+]]></content>
+ <tabTrigger>lorf</tabTrigger>
+<scope>source.js, source.jsx</scope>
+</snippet>

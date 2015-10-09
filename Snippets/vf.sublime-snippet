@@ -1,0 +1,9 @@
+<snippet>
+ <content><![CDATA[
+var ${1:functionName} = function(${2:}){
+	${3:}
+};
+]]></content>
+ <tabTrigger>vf</tabTrigger>
+<scope>source.js, source.jsx</scope>
+</snippet>
