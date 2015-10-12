@@ -1,9 +1,7 @@
 <snippet>
  <content><![CDATA[
-map(function(${1:}){
-	${2:}
-}.bind(this));
+console.assert(${1:});
 ]]></content>
- <tabTrigger>maprf</tabTrigger>
+ <tabTrigger>ca</tabTrigger>
 <scope>source.js, source.jsx</scope>
 </snippet>

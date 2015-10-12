@@ -1,11 +1,11 @@
 <snippet>
  <content><![CDATA[
-map(function(${1:}){
+function ${1:}(${2:}){
 	return(
-		${2:}
+		${3:}
 	)
-}.bind(this));
+}
 ]]></content>
- <tabTrigger>mrf</tabTrigger>
+ <tabTrigger>arf</tabTrigger>
 <scope>source.js, source.jsx</scope>
 </snippet>
